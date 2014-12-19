@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.1.0",
   "description": "Atom syntax theme based on Coda 2.5 Panic Palette theme.",
-  "repository": "https://github.com/atom/panic-palette",
+  "repository": "https://github.com/rodrigoteobaldo/panic-palette",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
