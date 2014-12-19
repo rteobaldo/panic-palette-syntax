@@ -1,4 +1,4 @@
-# panic-palette theme
+# Atom panic-palette-syntax
 
 Atom syntax theme based on Coda 2.5 Panic Palette theme.
 
