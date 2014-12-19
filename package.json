@@ -1,5 +1,5 @@
 {
-  "name": "panic-palette",
+  "name": "panic-palette-syntax",
   "theme": "syntax",
   "version": "0.2.4",
   "description": "Atom syntax theme based on Coda 2.5 Panic Palette theme.",
