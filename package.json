@@ -3,10 +3,10 @@
   "theme": "syntax",
   "version": "0.2.5",
   "description": "Atom syntax theme based on Coda 2.5 Panic Palette theme.",
-  "repository": "https://github.com/rodrigoteobaldo/panic-palette",
+  "repository": "https://github.com/rodrigoteobaldo/panic-palette-syntax",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rodrigoteobaldo/panic-palette/issues"
+    "url": "https://github.com/rodrigoteobaldo/panic-palette-syntax/issues"
   },
   "engines": {
     "atom": ">0.50.0"
